@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Official Website SMK Daarussa'adah
+title: Official Website Dakimakura Pillow
 image: /img/dakimakura2.jpg
 heading: Dakimakura Pillow
 subheading: Temukan pelukan paling nyaman dari karakter favoritmu.
