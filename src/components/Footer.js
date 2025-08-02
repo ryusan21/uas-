@@ -20,14 +20,14 @@ const Footer = () => {
                   placeholder="blurred"
                 />
                 <div className="text-xl font-bold tracking-wide">
-                  <span className="text-gray-800 font-semibold">SMK</span>
-                  <span className="text-green-700">Daarussaadah</span>
+                  <span className="text-gray-800 font-semibold">Dakimakura</span>
+                  <span className="text-green-700">Pillow</span>
                 </div>
               </Link>
 
               <p className="max-w-md mt-2 text-gray-600 dark:text-gray-400">
-                Konsep belajar SMK Daarussaadah Praktis dan Berpesantren
-                Menjadikan Siswa/i cepat memahami dalam setiap pembelajaran Ilmu, Teknologi dan Islam.
+                Dakimakura Pillow bukan hanya bantal peluk, tetapi wujud ekspresi dan kreativitas yang
+                menghubungkan penggemar dengan karakter kesayangan mereka.
               </p>
             </div>
           </div>
@@ -42,7 +42,7 @@ const Footer = () => {
                   to="/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  SMK Daarussaadah
+                  Dakimakura Pillow
                 </Link>
                 <Link
                   to="/"
@@ -54,7 +54,7 @@ const Footer = () => {
                   to="/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  Karir
+                  Wibu
                 </Link>
               </div>
 
@@ -92,7 +92,7 @@ const Footer = () => {
                   rel="noreferrer"
                   target="_blank"
                 >
-                  PT. Aretanet Indonesia
+                  PT. Dakimakura Pillow
                 </a>
                 <a
                   href="https://www.aretacollege.com/"
@@ -100,7 +100,7 @@ const Footer = () => {
                   rel="noreferrer"
                   target="_blank"
                 >
-                  Areta Informatics College
+                  Dakimakura Pillow
                 </a>
                 <a
                   href="https://facebook.com/smk-daarussaadah"
@@ -117,10 +117,10 @@ const Footer = () => {
                   Kontak
                 </h3>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  +62 85300000
+                  +62 821-1487-0063
                 </span>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  info@smk-daarussaadah.sch.id
+                  info@Dakimakurapillow.com
                 </span>
               </div>
             </div>
@@ -131,7 +131,7 @@ const Footer = () => {
 
         <div>
           <p className="text-center text-gray-800 dark:text-white">
-            © SMK Daarussaadah 2025 - All rights reserved
+            © Dakimakura Pillow 2025 - All rights reserved
           </p>
         </div>
       </div>

@@ -7,21 +7,21 @@ contactform:
   heading: Kami siap membantu Anda
   description: " Kirimkan pesan melalui formulir di bawah ini, atau kirimkan email
     kepada kami."
-  image: /img/perpustakaan.jpg
+  image: /img/dakimakura 1.jpg
 office:
-  tagline: Plang SMK Daarussaadah
-  location: Pasar Kemis Kota Tangerang
+  tagline: Dakimakura Pillow
+  location: Islamic Village
   address: |-
-    SMK Daarussaadah
+    Dakimakura Pillow
 
-    Kota
+    Kabupaten
 
     Tangerang
   phone: |-
-    Email: info@smk-daarussaadah.sch.id
+    Email: info@Dakimakurapillow.com
 
-    Phone: 0853000000
+    Phone: +6282114870063
 
     Senin s.d Sabtu 08.00 -14.00 Wib.
-  image: /img/smk-daarussaadah.jpg
+  image: /img/paraquedas.jpg
 ---

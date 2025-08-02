@@ -1,37 +1,43 @@
 ---
 templateKey: about-page
 title: Tentang Kami
-heading: Tentang SMK Daarussaadah Kota Tangerang
-subheading: Visi Misi, Prestasi, Kegiatan dan Jurusan
+heading: Tentang Dakimakura Pillow
+subheading: Sejarah Berdirinya Kami
 team:
-  - name: Prestasi Siswa
-    image: /img/img_2393.jpg
-    title: SMK Daarussaadah Kota Tangerang
-  - name: Kegiatan Siswa
-    title: SMK Daarussaadah Kota Tangerang
-    image: /img/img_4974.jpg
+  - name: Dakimakura Kaguya
+    image: /img/kaguya pillow.jpeg
+    title: bantal anime
+  - name: Dakimakura Levi
+    title: bantal anime
+    image: /img/levi pillow.jpeg
 ---
-### **SMK Daarussaadah Berpesantren**
+### **apa itu dakimakura pillow?**
 
-i﻿si tentang SMK Daarussaadah, mulai dari berdirinya, kegiatannya motivasinya dll.
+Dakimakura berasal dari Jepang dan awalnya hanya digunakan sebagai bantal peluk panjang untuk kenyamanan saat tidur. Seiring berkembangnya budaya anime, dakimakura mulai dihiasi dengan gambar karakter anime, manga, dan game favorit, menjadikannya populer di kalangan otaku sejak tahun 1990-an.
+Fenomena ini dikenal sebagai bagian dari “waifu culture”, di mana penggemar merasa lebih dekat dengan karakter kesayangannya melalui dakimakura. Kini, dakimakura tidak hanya menjadi bantal tidur, tapi juga teman peluk, koleksi, dan simbol cinta terhadap dunia 2D.
+
+
 
 ## **Visi**
 
-Isi dengan visi dari SMK Daarussaadah
+Menjadi brand dakimakura terpercaya di Indonesia yang menghadirkan kenyamanan, kualitas, dan kedekatan emosional bagi setiap pecinta karakter anime, manga, dan game.
 
 ## **Misi**
 
-1. i﻿si dengan misi-misi
+1. Menyediakan dakimakura berkualitas tinggi dengan bahan lembut dan cetakan karakter tajam yang tahan lama.
 
-![Tasakuran SMK Daarussaadah](/img/img_2242.jpg "Kegiatan Tasakuran SMK Daarussaadah")
+2. Membuka layanan custom desain, agar pelanggan bisa memeluk karakter impian mereka secara personal dan eksklusif.
 
-### Jurusun Teknik Komputer Jaringan (TKJ)
+3. Menghadirkan pengalaman belanja yang mudah dan menyenangkan, dengan pelayanan cepat dan responsif.
 
-Jurusan Teknik Komputer dan Jaringan (TKJ) adalah salah satu program keahlian yang ada di sekolah menengah kejuruan (SMK) yang mempelajari tentang teknologi informasi dan komunikasi terkait dengan penggunaan dan pemeliharaan perangkat keras dan perangkat lunak, serta jaringan komputer.
+4. Membangun komunitas penggemar karakter 2D, sebagai tempat berbagi, berekspresi, dan merasa diterima.
 
-Siswa yang mengambil program TKJ akan mempelajari materi seperti pemrograman komputer, pengoperasian sistem komputer, desain dan pengembangan website, administrasi jaringan komputer, keamanan jaringan, dan pengujian perangkat lunak. Selain itu, siswa juga akan mendapatkan praktikum untuk mengasah keterampilan dan pengalaman dalam bidang teknologi informasi dan komunikasi.
+5. Terus berinovasi dalam produk dan desain, mengikuti tren dan kebutuhan para otaku/wibu masa kini.
 
-Setelah lulus dari program TKJ, siswa akan memiliki keterampilan yang dibutuhkan untuk bekerja di berbagai industri yang berhubungan dengan teknologi informasi dan komunikasi, seperti:
 
-1. Perusahaan teknologi, penyedia layanan internet, dan perusahaan telekomunikasi. 
-2. Selain itu, siswa juga dapat melanjutkan pendidikan ke jenjang yang lebih tinggi, seperti program sarjana di bidang teknik informatika atau teknologi informasi.
+### Produk Kami
+
+![Tasakuran SMK Daarussaadah](img/dakimakura_page.jpeg)
+
+Kami menyediakan berbagai pilihan dakimakura pillow berkualitas tinggi yang dirancang khusus untuk pecinta karakter anime, manga, dan game. Setiap produk kami dibuat dengan perhatian terhadap kenyamanan, desain, dan kepuasan pelanggan.
+
